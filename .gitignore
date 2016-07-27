@@ -2,3 +2,4 @@ pip-selfcheck.json
 .Python
 lib/
 bin/
+include/
