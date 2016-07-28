@@ -1,5 +1,16 @@
-pip-selfcheck.json
 .Python
+
+# folders from virtualenv
 lib/
 bin/
 include/
+
+# compiled python binaries
+*.pyc
+
+# setuptools distribution folder
+/dist/
+
+# python egg metadata
+*.egg-info
+
