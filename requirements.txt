@@ -1,0 +1,4 @@
+-e git+git@github.com:malachite-sprite/cerberus.git@55403237253692d4b1a080d8ea9e6710af1591c3#egg=cerberus
+coverage==4.2
+py==1.4.31
+pytest==2.9.2
