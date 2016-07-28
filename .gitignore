@@ -14,3 +14,8 @@ include/
 # python egg metadata
 *.egg-info
 
+v
+.coverage
+README.txt
+pytest_runner-2.9-py3.5.egg
+pip-selfcheck.json
